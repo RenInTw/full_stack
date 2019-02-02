@@ -9,7 +9,7 @@ body {
   min-height: 100%;
 }
 
-#trademark {
+.trademark {
     position: absolute;
     right: 0;
     bottom: 0;

@@ -64,12 +64,12 @@ body {
     opacity: 0; 
     animation-timing-function: ease-in;
   }
-  10% {
+  7% {
     opacity: 1;
     animation-timing-function: ease-out;
   }
-  20% {
-    opacity: 1
+  25% {
+    opacity: 1;
   }
   30% {
     opacity: 0
